@@ -1,0 +1,1 @@
+var json_rsudtubaba_5 = {"type":"FeatureCollection","name":"rsudtubaba_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"rs":"rsud tubaba","foto":null,"foto rs tb":"../signeet foto rs/1.jpg"},"geometry":{"type":"Point","coordinates":[105.09476268852643,-4.495916703987648]}}]}
