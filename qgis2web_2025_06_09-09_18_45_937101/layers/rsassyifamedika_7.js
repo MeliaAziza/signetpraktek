@@ -1,0 +1,1 @@
+var json_rsassyifamedika_7 = {"type":"FeatureCollection","name":"rsassyifamedika_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"rs":"rs assyifa medika","foto":null,"foto am":"../signeet foto rs/4.jpg"},"geometry":{"type":"Point","coordinates":[105.086546134639093,-4.631613827389929]}}]}
